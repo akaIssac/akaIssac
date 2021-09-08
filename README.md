@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akaIssac
-- 👀 I’m interested in NA
-- 🌱 I’m currently learning NA
-- 💞️ I’m looking to collaborate on NA
+- 👀 I’m interested in Data Analysis, Machine Learning, Deep Learning.
+- 🌱 I’m currently learning Data Science
+
 
 
 <!---
